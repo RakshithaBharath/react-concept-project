@@ -1,0 +1,25 @@
+/* src/components/Topics/Topics.module.css */
+
+/* Style for the main heading */
+.mainHeading {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  color: maroon;
+}
+
+/* Style for the list items */
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style for the links */
+.link {
+  text-decoration: none; /* Remove underline from links */
+  color: #333; /* Change link color */
+}
+
+/* Hover effect for links */
+.link:hover {
+  color: #ff0077; /* Change link color on hover */
+}
