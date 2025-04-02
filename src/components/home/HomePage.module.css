@@ -25,3 +25,13 @@
 p{
   font-size:  larger;
 }
+
+.link {
+  text-decoration: none; /* Remove underline from links */
+  color: #333; /* Change link color */
+}
+
+/* Hover effect for links */
+.link:hover {
+  color: #584308d2; /* Change link color on hover */
+}

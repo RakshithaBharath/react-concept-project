@@ -1,6 +1,6 @@
 /* globalStyles.css */
 body {
-  background-image: url('../public/Pastel-gradient-background.jpg');  
+  background-image: url('./assets/images/2.jpg');  
   background-size: cover;
   background-position: center;
   min-height: 89vh;

@@ -40,7 +40,11 @@ const HomePage = () => {
                 What we learn:
               </h2>
               <ul className="list-unstyled  font-weight-bolder">
-                <li>Introduction to React and Basics</li>
+                <li>
+                          <Link className={styles.link} to="/introduction-to-react">
+                            Introduction to React
+                          </Link>
+                        </li>
                 <li>React Components Basics</li>
                 <li>JSX Basics</li>
                 <li>React ES6</li>
