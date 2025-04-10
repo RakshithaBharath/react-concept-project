@@ -1,0 +1,11 @@
+/* styles.module.css */
+
+.primary {
+  color: rgb(255, 0, 230);
+  font-weight: bold;
+}
+
+.secondary {
+  color: rgb(128, 0, 100);
+  font-style: italic;
+}
